@@ -1,6 +1,6 @@
 # BCAway
 
-The unofficial app for BCA students to see which teachers are absent.
+The unofficial and easy way for BCA students to see which teachers are absent.
 
 ## Projects
 
