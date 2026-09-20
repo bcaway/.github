@@ -1,5 +1,5 @@
-# BCA Upper Cafe — Organization Profile
+# BCAway — Organization Profile
 
-Files for the public BCA Upper Cafe GitHub organization profile.
+Files for the public BCAway GitHub organization profile.
 
 - `profile/README.md` — Public organization profile README.
