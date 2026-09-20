@@ -6,6 +6,7 @@ The unofficial and easy way for BCA students to see which teachers are absent.
 
 - 📱 [bcaway-app](https://github.com/bcaway/bcaway-app) - Mobile and web apps for viewing teacher absences.
 - 🖥️ [bcaway-landing](https://github.com/bcaway/bcaway-landing) - Landing page for the BCAway app.
+- ⚙️ [absence-sync](https://github.com/bcaway/absence-sync) - Syncs BCA teacher absences data from Google Docs to the API.
 - 📆 [school-schedules](https://github.com/bcaway/school-schedules) - BCA School Schedules for current year.
 
 ## About
