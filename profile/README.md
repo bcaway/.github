@@ -1,19 +1,18 @@
-# BCA Upper Cafe
+# BCAway
 
-A digital system for managing *Upper Cafe* Study Halls at Bergen County Academies.
+The unofficial app for BCA students to see which teachers are absent.
 
 ## Projects
 
-- 🌐 [upper-cafe-web](https://github.com/bca-upper-cafe/upper-cafe-web) — Student check-ins, check-outs, and admin management.
-- 📱 [upper-cafe-mobile](https://github.com/bca-upper-cafe/upper-cafe-mobile) — Mobile app for viewing teacher absences.
-- 🖥️ [school-schedules](https://github.com/bca-upper-cafe/school-schedules) — BCA School Schedules for current year.
-- ⚙️ [upper-cafe-api](https://github.com/bca-upper-cafe/upper-cafe-api) — Backend API powering the Upper Cafe system.
+- 📱 [bcaway-app](https://github.com/bcaway/bcaway-app) — Mobile and web apps for viewing teacher absences.
+- 🖥️ [school-schedules](https://github.com/bcaway/school-schedules) — BCA School Schedules for current year.
+- ⚙️ [upper-cafe-api](https://github.com/bcaway/bcaway-landing) — Landing page for the BCAway app.
 
 ## About
 
-Upper Cafe provides a centralized way for students and administrators to manage Study Hall check-ins and teacher absences, replacing the existing paper-based workflow.
+BCAway provides a simple way for students to see which teachers are away throughout the school day. Instead of having to figure out teacher absences through different sources, BCAway puts the information in one place and makes it easy to check by period.
 
-Built for the Bergen County Academies Upper Cafe community :)
+Built for the Bergen County Academies community :)
 
 ### Maintainance
 
