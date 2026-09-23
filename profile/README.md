@@ -10,6 +10,7 @@ The unofficial and easy way for BCA students to see which teachers are absent.
 - ⚙️ [absence-sync](https://github.com/bcaway/absence-sync) - Syncs BCA teacher absences data from Google Docs to the API.
 - 🛎️ [bcaway-notifications](https://github.com/bcaway/bcaway-notifications) - Backend notification service for the BCAway app.
 - 📆 [school-schedules](https://github.com/bcaway/school-schedules) - BCA School Schedules for current year.
+- 📌 [bcaway-docs](https://github.com/bcaway/bcaway-docs) - Docs for using features of BCAway.
 
 ## About
 
