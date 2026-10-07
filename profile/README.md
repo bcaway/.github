@@ -6,7 +6,7 @@ The unofficial and easy way for Bergen County Academies students to see which te
 
 - 📱 [bcaway-app](https://github.com/bcaway/bcaway-app) - Mobile and web apps for viewing teacher absences.
 - 🖥️ [bcaway-landing](https://github.com/bcaway/bcaway-landing) - Landing page for the BCAway app.
-- ⚙️ [backend-sync](https://github.com/bcaway/backend-sync) - Syncs BCA teacher absences and bus data from Google Docs to the API.
+- ⚙️ [backend-sync](https://github.com/bcaway/backend-sync) - Syncs ingested BCA teacher absences from Google Docs to the API.
 - 🛎️ [bcaway-notifications](https://github.com/bcaway/bcaway-notifications) - Backend notification service for the BCAway app.
 - 📆 [school-schedules](https://github.com/bcaway/school-schedules) - BCA School Schedules for current year.
 - 📌 [bcaway-docs](https://github.com/bcaway/bcaway-docs) - Docs for using features of BCAway.
